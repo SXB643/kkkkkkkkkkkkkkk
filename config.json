@@ -1,0 +1,11 @@
+{
+    "prefix": "$",
+    "owners": [
+        "1169223248202965086",
+        "",
+        ""
+    ],
+    "Guild": "1169368575098749099",
+    "token": "MTIyOTU5NzExMDQzODIwMzQzMw.GVt7CU.uXCInPqBWYN_0m-VW3YRmpehDpNDVU6kC-yosE",
+    "db": "mongodb+srv://x87bb:2LDtYbNsxY3rQ3NZ@cluster0.odjlnwq.mongodb.net/"
+}
